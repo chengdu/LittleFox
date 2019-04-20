@@ -13,8 +13,8 @@ Screenshot
 Sample output movies
 ========
 1. Say You Say Me - Lionel Richie.mp4 <br />
-2. 舊日的足跡.mp4 <br />
-
+2. Suddenly - Billy Ocean.mp4 <br />
+3. When You Believe - Whitney Houston.mp4 <br />
 
 More info
 ========

@@ -2,7 +2,7 @@
 
 # LittleFox 
 
-LittleFox is a designedly small util developed to synthesis video or audio into movie with subtitle. You can burn your favourite mp3 music with lyrics text to music movie in several minutes or synchronising some words to exists movie within several click. <br />
+LittleFox is a designedly small util developed to synthesis video or audio into movie with subtitle. You can burn your favourite mp3 music with lyrics text to music movie in several minutes or synchronising some words to exists movie within several clicks. <br />
 
 
 Screenshot

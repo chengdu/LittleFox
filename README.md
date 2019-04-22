@@ -1,8 +1,13 @@
-![GA logo](http://sevenuc.com/images/littlefox/logo.png) <br />
+![LittleFox logo](http://sevenuc.com/images/littlefox/logo.png) <br />
 
 # LittleFox 
 
 LittleFox is a designedly small util developed to synthesis video or audio into movie with subtitle. You can burn your favourite mp3 music with lyrics text to music movie in several minutes or synchronising some words to exists movie within several clicks. <br />
+
+
+Style Samples
+========
+![Style Samples of LittleFox](styles.png) <br />
 
 
 Screenshot
@@ -13,9 +18,11 @@ Screenshot
 Sample output movies
 ========
 1. Say You Say Me - Lionel Richie.mp4 <br />
-2. Never Gonna Give You Up - Rick Astley.mp4 <br />
-3. Suddenly - Billy Ocean.mp4 <br />
-4. When You Believe - Whitney Houston.mp4 <br />
+2. Memory - Andrew Lloyd Webber <br />
+3. Never Gonna Give You Up - Rick Astley.mp4 <br />
+4. Suddenly - Billy Ocean.mp4 <br />
+5. When You Believe - Whitney Houston.mp4 <br />
+
 
 More info
 ========

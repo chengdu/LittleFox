@@ -18,10 +18,11 @@ Screenshot
 Sample output movies
 ========
 1. Say You Say Me - Lionel Richie.mp4 <br />
-2. Memory - Andrew Lloyd Webber <br />
-3. Never Gonna Give You Up - Rick Astley.mp4 <br />
-4. Suddenly - Billy Ocean.mp4 <br />
-5. When You Believe - Whitney Houston.mp4 <br />
+2. Memory - Andrew Lloyd Webber.mp4 <br />
+3. Hotel California - Eagles.mp4 <br />
+4. Never Gonna Give You Up - Rick Astley.mp4 <br />
+5. Suddenly - Billy Ocean.mp4 <br />
+6. When You Believe - Whitney Houston.mp4 <br />
 
 
 More info

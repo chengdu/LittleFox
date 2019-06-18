@@ -2,7 +2,7 @@
 
 # LittleFox 
 
-LittleFox is a designedly small util developed to synthesis video or audio into movie with subtitle. You can burn your favourite mp3 music with lyrics text to music movie in several minutes or synchronising some words to exists movie within several clicks. <br />
+LittleFox  is a designedly small util developed to synthesis video or audio to movie with subtitles. With the help of it, you can burn your favourite mp3 to video with lyrics words in several minutes, synchronise some words to an exists video, or just scale the screen size of your videos to slim them so that you can very easily share them on social websites. <br />
 
 
 Style Samples
@@ -23,7 +23,9 @@ Sample output movies
 4. Never Gonna Give You Up - Rick Astley.mp4 <br />
 5. Suddenly - Billy Ocean.mp4 <br />
 6. When You Believe - Whitney Houston.mp4 <br />
-
+7. Sailing - Rod Stewart.mp4 <br />
+8. Everything I Do, I Do It for You - Bryan Adams.mp4 <br />
+9. Take My Breath Away - Berlin.mp4 <br />
 
 More info
 ========

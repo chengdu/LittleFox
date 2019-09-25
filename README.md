@@ -27,6 +27,17 @@ Sample output movies
 8. Everything I Do, I Do It for You - Bryan Adams.mp4 <br />
 9. Take My Breath Away - Berlin.mp4 <br />
 
+
+Sample MTV
+========
+![movies sample of LittleFox](DANGAL.png) <br />
+Two song form movie Dangal 2016, music tv made with LittleFox. <br />
+1. Haanikaarak Baapu <br />
+2. Naina <br />
+
+The lyrics sheet styles please refer Haanikaarak Baapu.txt and Naina.txt. <br />
+
+
 More info
 ========
 [LittleFox Homepage](http://sevenuc.com/en/littlefox.html) <br />

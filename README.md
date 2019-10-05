@@ -31,11 +31,16 @@ Sample output movies
 Sample MTV
 ========
 ![movies sample of LittleFox](DANGAL.png) <br />
-Two song from movie [Dangal 2016](https://www.imdb.com/title/tt5074352/), music TV made with LittleFox. <br />
+Two song from movie [Dangal 2016](https://www.imdb.com/title/tt5074352/), music TV made by LyricsMaker and LittleFox. <br />
 1. Haanikaarak Baapu <br />
 2. Naina <br />
 
 The lyrics sheet styles please refer Haanikaarak Baapu.txt and Naina.txt. <br />
+
+
+![movies sample of LittleFox](Totoro.png) <br />
+A MTV made from movie [となりのトトロ (My Neighbor Totoro, Tonari no Totoro, 龍貓)](https://ja.wikipedia.org/wiki/となりのトトロ), made by LyricsMaker and LittleFox. <br />
+
 
 
 More info

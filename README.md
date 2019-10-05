@@ -40,7 +40,7 @@ The lyrics sheet styles please refer Haanikaarak Baapu.txt and Naina.txt. <br />
 
 ![movies sample of LittleFox](Totoro.png) <br />
 A MTV made from movie [となりのトトロ (My Neighbor Totoro, Tonari no Totoro, 龍貓)](https://www.imdb.com/title/tt0096283/), made by LyricsMaker and LittleFox. <br />
-
+The lyrics sheet please refer Totoro.txt. <br />
 
 
 More info

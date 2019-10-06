@@ -5,7 +5,7 @@
 [00:06.81]Shining on the green grass
 && 照在綠草蔥蔥的田野上
 [00:09.07]Shining the small wooden house
-&& 照著小小的木屋
+&& 照著小木屋
 [00:12.82]Bright moon shining in the sky
 && 朗朗明月在星空照耀
 [00:17.79]Lighting into the window and door gently
@@ -18,12 +18,12 @@
 && 據說在鄉下
 [00:35.23]There are various elves
 && 有各種精靈
-[00:36.73]Only the child that has a pure heart
-&& 只有心地純眞的孩子
+[00:36.73]Only the people that has a pure heart
+&& 只有心地純眞的人
 [00:38.91]Can see them
 && 才能見到它們
-[01:05.15]Only the child that has a pure heart
-&& 只有心地純眞的孩子
+[01:05.15]Only the people that has a pure heart
+&& 只有心地純眞的人
 [01:09.65]Can make seeds of wish
 && 才能讓願望的種子
 [01:12.59]Germinate and grow
@@ -37,22 +37,26 @@
 [01:56.20]Desiring every day
 && 每天不停的思念
 [01:58.86]Desiring the dream in heart
-&& 思念著夢想
+&& 思念著心中夢想
 [02:19.35]And hard work every day
-&& 每天辛勤的工作
+&& 每日辛勤工作
 [02:22.78]Let the dream growing
 && 讓夢想不停地成長
-[02:24.48]Growing into a big tree
-&& 長成為蒼天大樹
-[02:26.21]Turning the good wish to true
-&& 讓美好心願變成眞
+[02:26.21]Until turned the good wish to true
+&& 直到美好心願變成眞
 [02:31.87]Shining moon was in heart
 && 朗朗明月在心中
 [02:36.35]Let it shining in heart
 && 讓心裏澄亮的月光
 [02:44.35]Together with you forever
-&& 伴隨著自己
+&& 永遠伴隨著自己
 [02:46.08]Never leave away from you
+&& 永不遠離自己
+[02:47.35]Let the elves near with you
+&& 讓身邊的精靈
+[02:49.35]Together with you forever
+&& 永遠伴隨著自己
+[02:51.38]Never leave away from you
 && 永不遠離自己
 [03:08.84]Let simple pure joy
 && 讓單純的快樂
@@ -62,16 +66,20 @@
 && 飄飛在田野上
 [03:26.94]Flying in the sea of clouds
 && 飄飛在雲海
+[03:29.04]Life is so wonderful
+&& 生命多歡暢
 [03:42.84]Flying on the grassy fields
 && 飄飛在綠草茵茵的田野上
+[03:45.94]Life is so wonderful
+&& 生命多歡暢
 [03:54.28]Never forget to repay the kindness
 && 不忘對恩情的報答
 [03:58.35]Never stop to desire the dream in heart
 && 不忘對夢想的思念
 [04:05.84]Let the moon shining in heart
 && 讓心中的朗朗明月
-[04:10.53]Drive away the haze in heart  
-&& 驅走心裡的陰霾
+[04:10.53]Drive away the doubts and questions in heart  
+&& 驅走心裡的困惑和疑問
 [04:21.52]Let pure heart and kindness
 && 讓眞純和善良
 [04:29.60]Guide you and show the way

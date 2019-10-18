@@ -1,54 +1,58 @@
 [00:00.00]Elves Near With You
 && 身邊的精靈
-[00:03.27]Clear moonlight
+[00:03.19]Clear moonlight
 && 澄亮的月光
-[00:04.94]Shining on the green grass
+[00:06.81]Shining on the green grass
 && 照在綠草蔥蔥的田野上
-[00:07.66]Shining the small wooden house
+[00:09.07]Shining the small wooden house
 && 照著小木屋
-[00:12.59]Bright moon shining in the sky
+[00:12.82]Bright moon shining in the sky
 && 朗朗明月在星空照耀
-[00:17.66]Lighting into the window and door gently
+[00:17.79]Lighting into the window and door gently
 && 溫柔的照進門窗
-[00:23.54]Clear moonlight
+[00:23.16]Clear moonlight
 && 澄亮的月光
-[00:28.02]Awaking sleeping child gently
-&& 輕柔的呼喚著沉睡的小孩
-[00:32.58]It is said that in the countryside
+[00:28.03]Awaking sleeping child gently
+&& 輕輕呼喚著沉睡的小孩
+[00:33.00]It is said that in the countryside
 && 據說在鄉下
-[00:36.29]There are various elves
+[00:35.23]There are various elves
 && 有各種精靈
-[00:38.11]Only the people that has a pure heart
+[00:36.73]Only the people that has a pure heart
 && 只有心地純眞的人
-[00:40.08]Can see them
+[00:38.91]Can see them
 && 才能見到它們
-[01:06.10]Only the people that has a pure heart
+[01:05.15]Only the people that has a pure heart
 && 只有心地純眞的人
-[01:09.51]Can make seeds of wish
+[01:09.65]Can make seeds of wish
 && 才能讓願望的種子
-[01:15.80]Germinate and grow
+[01:12.59]Germinate and grow
 && 發芽生長
-[01:27.41]Under devout care and hard work
+[01:15.41]Under devout care and hard work
 && 在眞誠和辛勤的養育下
-[01:34.85]Germinating and growing
+[01:21.51]Germinating and growing
 && 發芽生長
-[01:36.93]Continue growing
+[01:34.74]Continue growing
 && 不停的生長
-[01:56.07]Desiring every day
+[01:56.20]Desiring every day
 && 每天不停的思念
 [02:01.18]Desiring the dream in heart
 && 思念著心中夢想
-[02:19.63]And hard work every day
+[02:19.35]And hard work every day
 && 每日辛勤工作
-[02:23.51]Let the dream growing
+[02:22.78]Let the dream growing
 && 讓夢想不停地成長
-[02:26.26]Until turned the good wish to reality
+[02:26.21]Until turned the good wish to reality
 && 直到美好心願變成眞
-[02:30.67]Elves is near with you
+[02:31.87]Shining moon was in heart
+&& 朗朗明月在心中
+[02:33.35]Let it shining you forever
+&& 讓它永遠照耀自己
+[02:37.67]Elves is near with you
 && 精靈就在你身邊
-[02:39.77]Let them together with you forever
+[02:41.35]Let them together with you forever
 && 讓它們永遠伴隨著自己
-[02:59.05]Never leave away from you
+[02:46.08]Never leave away from you
 && 永不遠離自己
 [03:04.71]Together with you forever
 && 永遠伴隨著自己
@@ -84,6 +88,5 @@
 && 指引自己
 [04:54.75]Let the shining moon in heart
 && 讓心中的朗朗明月
-[04:58.42]Let it illuminate yourself
+[04:58.42]Illuminating yourself
 && 照亮自己
-
